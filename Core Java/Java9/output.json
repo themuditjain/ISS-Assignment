@@ -1,0 +1,26 @@
+{
+  "person": {
+    "name": "Mudit Jain",
+    "age": 31,
+    "address": {
+      "city": "Meerut",
+      "state": "UP",
+      "zip": "250002"
+    },
+    "emails": [
+      "1muditjain1@gmail.com",
+      "mudit.jain2020@vitstudent.ac.in"
+    ],
+    "isStudent": false
+  },
+  "languages": [
+    "JavaScript",
+    "Python",
+    "Java"
+  ],
+  "hobbies": [
+    "Photography",
+    "Traveling",
+    "Videography"
+  ]
+}
