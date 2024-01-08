@@ -61,15 +61,3 @@ public class Student2 {
         System.out.println("Total Students across all objects: " + Student2.getTotalStudents());
     }
 }
-
-
-/*In this example, the Student class includes:
-
-Instance variables with the final keyword.
-Static variables (totalStudents and SCHOOL_NAME).
-Constants declared with the final keyword.
-Constructors to initialize the instance variables.
-Getter and setter methods to access and modify the state.
-A method (displayStudentInfo) to display information about the student.
-The main method demonstrates the creation of multiple Student objects, calling methods on these objects, and accessing static variables.
-*/
